@@ -35,7 +35,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git https://github.com/mgrellet/company.git
+git clone https://github.com/mgrellet/company.git
 cd company
 ```
 
